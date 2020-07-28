@@ -1,4 +1,4 @@
-# MachineLearning
+# MachineLearning <img src="https://img.shields.io/github/stars/stutisehgal/MachineLearning">
 Machine Learning Repository aims at importing libraries like pandas,numpy and sklearn to predict csv datasets using suitable classification and regression Machine Learning algorithms and visualise the dataset results using matplotlib and seaborn.
 
 # Motivation
@@ -6,7 +6,7 @@ Machine Learning is one of the most advancing fields in Computer Sciences.
 
 # Repository Index
 
-# Contribute
+# Contribute 👨‍👨‍👧‍👦
 Thanks for taking the time to contribute!
 
 The following is a set of guidelines for contributing to Machine Learning Repository. These are just guidelines, not rules, so use your best judgement and feel free to propose changes to this document in a pull request.
@@ -14,6 +14,7 @@ The following is a set of guidelines for contributing to Machine Learning Reposi
 If you have any questions, open an issue.
 
 ## Issue 
+<img src="https://img.shields.io/github/issues/stutisehgal/MachineLearning">
 Ensure the bug was not already reported by searching on GitHub under issues. If you're unable to find an open issue addressing the bug, open a new issue.
 
 Write detailed information. Detailed information is very helpful to understand an issue.
@@ -23,6 +24,6 @@ For example: How to reproduce the issue, step-by-step. The expected behavior (or
 ## Pull Requests
 Pull Requests are always welcome.
 
-# Referecnes
+# References
 Super Data Science @Udemy
 Andrew Ng @Coursera 
