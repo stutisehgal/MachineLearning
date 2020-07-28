@@ -4,8 +4,6 @@ Machine Learning Repository aims at importing libraries like pandas,numpy and sk
 # Motivation
 Machine Learning is one of the most advancing fields in Computer Sciences. 
 
-# Repository Index
-
 # Contribute 👨‍👨‍👧‍👦
 Thanks for taking the time to contribute!
 
