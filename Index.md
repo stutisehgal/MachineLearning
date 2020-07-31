@@ -53,7 +53,7 @@
 
 ## ⭕ Random Forest Classifier
 
-<img src="bank_authenticatorStreamlit.png">
+  <img src="bank_authenticatorStreamlit.png">
 
 ### 💠 PROJECT: Bank Authentication App
 
