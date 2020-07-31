@@ -50,7 +50,23 @@
 
 ### 💠 Readme.md of Project
 
+
 ## ⭕ Random Forest Classifier
+
+<img src="bank_authenticatorStreamlit.png">
+
+### 💠 PROJECT: Bank Authentication App
+
+### 💠 BankNote_Authetication.csv Dataset
+
+### 💠 RandomForest_Classifier.ipynb
+
+### 💠 classifier.pkl
+
+### 💠 streamlit_app.py
+
+### 💠 test.csv
+
 
 ## ⭕ SVM 
 
