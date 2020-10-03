@@ -1,0 +1,15 @@
+S. No,Gender,Age,Marital Status,Education ,Fraud
+1,Male ,Middle age,Unmarried,HSC,YES
+2,Female,Youth,Married,UG,YES
+3,Male ,Middle age,Divorced,PG,NO
+4,Female,Youth,Unmarried,HSC,NO
+5,Male,Senior,Married,PG,YES
+6,Female,Youth,Divorced,UG,NO
+7,Male,Youth,Divorced,HSC,NO
+8,Female,Middle age,Married,HSC,YES
+9,Male,Senior,Married,UG,YES
+10,Male,Youth,Unmarried,PG,YES
+11,Female,Youth,Unmarried,UG,NO
+12,Male,Youth,Unmarried,PG,YES
+13,Male,Senior,Married,UG,YES
+14,Female,Middle age,Married,HSC,YES
