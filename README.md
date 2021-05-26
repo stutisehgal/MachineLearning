@@ -4,6 +4,9 @@ Machine Learning Repository aims at importing libraries like pandas,numpy and sk
 # Motivation
 Machine Learning is one of the most advancing fields in Computer Sciences. 
 
+# Blog
+Check out my blog on Unsupervised clustering method: [My Medium blog](https://medium.com/data-science-community-srm/clustering-algorithms-you-say-i-must-be-late-to-the-party-603caeb974d4)
+
 # Contribute 👨‍👨‍👧‍👦
 Thanks for taking the time to contribute!
 
@@ -12,7 +15,6 @@ The following is a set of guidelines for contributing to Machine Learning Reposi
 If you have any questions, open an issue.
 
 ## Issue 
-<img src="https://img.shields.io/github/issues/stutisehgal/MachineLearning">
 Ensure the bug was not already reported by searching on GitHub under issues. If you're unable to find an open issue addressing the bug, open a new issue.
 
 Write detailed information. Detailed information is very helpful to understand an issue.
